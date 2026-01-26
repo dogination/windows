@@ -16,7 +16,7 @@ Amd gpu - amd adrenalin
 ## Usage
 I use the `autounattend.xml` created from https://schneegans.de/windows/unattend-generator/ to make an automated customized clean windows installation.
 
-I use [ventoy](https://www.ventoy.net/) so I can use the `autounattend.xml` with an stock Windows 10/11 iso. Otherwise I have to manually make a custom windows 10/11 iso included with the `autounattend.xml`.
+I use [ventoy](https://www.ventoy.net/) with its [Auto Installation Plugin](https://www.ventoy.net/en/plugin_autoinstall.html) so I can use the `autounattend.xml` with an unmodified Windows 10/11 iso. Otherwise I have to manually make a custom windows 10/11 iso with a `autounattend.xml` file.
 
 ## Post install
 
